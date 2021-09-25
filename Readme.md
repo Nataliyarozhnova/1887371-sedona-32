@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Наталия](https://up.htmlacademy.ru/htmlcss/32/user/1887371).
-* Наставник: `Tina Kuzmenko`.
+* Наставник: [Tina Kuzmenko](https://htmlacademy.ru/profile/tina_kuzmenko). 
 
 ---
 
